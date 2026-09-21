@@ -1,4 +1,4 @@
-# Proyecto MPI + OpenMP - Operaciones con Arreglos
+# Actividad 1.2: Carga de memoria distribuida en MPI.
 
 ## Integrantes
 
